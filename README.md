@@ -1,0 +1,2 @@
+# Stackato
+StackatoPaaS
